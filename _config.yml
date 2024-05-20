@@ -25,16 +25,16 @@ author:
   name             : "Gokul B. Nair"
   pronouns         : # example: "she/her"  
   bio              : # "Computer Vision | Robotics"
-  location         : "Brisbane, QLD, Australia"
+  location         : "Brisbane, Australia"
   employer         : # "Queensland University of Technology"
   uri              : # URL
   email            : "gokulbnr@gmail.com" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Nair,+G+B"
+  arxiv            : # "https://arxiv.org/search/cs?searchtype=author&query=Nair,+G+B"
   googlescholar    : "https://scholar.google.com/citations?user=XksCgGEAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0003-4036-1356"
+  orcid            : # "http://orcid.org/0000-0003-4036-1356"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
