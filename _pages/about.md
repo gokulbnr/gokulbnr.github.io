@@ -12,7 +12,27 @@ I am a doctoral student at [QUT Centre for Robotics](https://research.qut.edu.au
 Before this, I worked as a Robotics Engineer at [Clutterbot Inc.](https://www.clutterbot.com/){:target="_blank"} in Bengaluru and [Addverb Technologies](https://addverb.com/){:target="_blank"} in Noida. I completed my B.Tech and MS by Research in Computer Science through a dual degree from [IIIT-Hyderabad](https://iiit.ac.in){:target="_blank"} in 2020. My master's thesis, completed under the guidance of [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/){:target="_blank"} at the [Robotics Research Centre, IIIT-Hyderabad](https://robotics.iiit.ac.in/){:target="_blank"}, focused on using pose-graph optimizations for monocular SLAM in autonomous driving scenarios.
 
 
+Publications
+=====
 
+<a target="_blank" href="https://arxiv.org/abs/2403.16425">**Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**<a/><br>
+**Gokul B. Nair**, Michael Milford, and  Tobias Fischer<br>
+<em>Preprint<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2403.16425"><button id="touch">PDF</button></a>
+<a target="_blank" href="https://youtu.be/8D9gtHqteEQ"><button id="touch">Video</button></a>
+
+<a target="_blank" href="https://arxiv.org/abs/2011.07613">**BirdSLAM: Monocular Multibody SLAM in Bird’s-Eye View**<a/><br>
+Swapnil Daga, **Gokul B. Nair**, Rahul Sajnani, Anirudha Ramesh, Junaid Ahmed Ansari, and  K. Madhava Krishna<br>
+<em>International Conference on Computer Vision Theory and Applications (VISAPP) 2021<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2011.07613"><button id="touch">PDF</button></a>
+<a target="_blank" href="https://youtu.be/ZFN35qJYDAA"><button id="touch">Video</button></a>
+
+<a target="_blank" href="https://arxiv.org/abs/2002.03528">**Multi-object monocular SLAM for dynamic environments**<a/><br>
+**Gokul B. Nair**, Swapnil Daga, Rahul Sajnani, Anirudha Ramesh, Junaid Ahmed Ansari, Krishna Murthy Jatavallabhula, and  K. Madhava Krishna<br>
+<em>IEEE Symposium on Intelligent Vehicle (IV) 2020<em/><br>
+<a target="_blank" href="https://ieeexplore.ieee.org/document/9304648"><button id="touch">DOI</button></a>
+<a target="_blank" href="https://arxiv.org/abs/2002.03528"><button id="touch">PDF</button></a>
+<a target="_blank" href="https://youtu.be/cchPIaKSSvM"><button id="touch">Video</button></a>
 
 <!-- 
 A data-driven personal website
