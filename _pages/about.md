@@ -15,24 +15,46 @@ Before this, I worked as a Robotics Engineer at [Clutterbot Inc.](https://www.cl
 Publications
 =====
 
-<a target="_blank" href="https://arxiv.org/abs/2403.16425">**Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**<a/><br>
-**Gokul B. Nair**, Michael Milford, and  Tobias Fischer<br>
-<em>Preprint<em/><br>
-<a target="_blank" href="https://arxiv.org/abs/2403.16425"><button id="touch">PDF</button></a>
-<a target="_blank" href="https://youtu.be/8D9gtHqteEQ"><button id="touch">Video</button></a>
 
-<a target="_blank" href="https://arxiv.org/abs/2011.07613">**BirdSLAM: Monocular Multibody SLAM in Bird’s-Eye View**<a/><br>
-Swapnil Daga, **Gokul B. Nair**, Rahul Sajnani, Anirudha Ramesh, Junaid Ahmed Ansari, and  K. Madhava Krishna<br>
-<em>International Conference on Computer Vision Theory and Applications (VISAPP) 2021<em/><br>
-<a target="_blank" href="https://arxiv.org/abs/2011.07613"><button id="touch">PDF</button></a>
-<a target="_blank" href="https://youtu.be/ZFN35qJYDAA"><button id="touch">Video</button></a>
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <div style="margin-right: 20px;">
+    <img class="preview z-depth-1 rounded" src="images/p3.png" style="max-width: 212px; width: auto; height: auto;">
+  </div>
+<div>
+  <a target="_blank" href="https://arxiv.org/abs/2403.16425"><strong>Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras</strong></a><br>
+  <strong>Gokul B. Nair</strong>, Michael Milford, and  Tobias Fischer<br>
+  <em>Preprint</em><br>
+  <a target="_blank" href="https://arxiv.org/abs/2403.16425"><button id="touch">PDF</button></a>
+  <a target="_blank" href="https://youtu.be/8D9gtHqteEQ"><button id="touch">Video</button></a>
+  </div>
+</div>
 
-<a target="_blank" href="https://arxiv.org/abs/2002.03528">**Multi-object monocular SLAM for dynamic environments**<a/><br>
-**Gokul B. Nair**, Swapnil Daga, Rahul Sajnani, Anirudha Ramesh, Junaid Ahmed Ansari, Krishna Murthy Jatavallabhula, and  K. Madhava Krishna<br>
-<em>IEEE Symposium on Intelligent Vehicle (IV) 2020<em/><br>
-<a target="_blank" href="https://ieeexplore.ieee.org/document/9304648"><button id="touch">DOI</button></a>
-<a target="_blank" href="https://arxiv.org/abs/2002.03528"><button id="touch">PDF</button></a>
-<a target="_blank" href="https://youtu.be/cchPIaKSSvM"><button id="touch">Video</button></a>
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <div style="margin-right: 20px;">
+    <img class="preview z-depth-1 rounded" src="images/p2.png" style="max-width: 212px; width: auto; height: auto;">
+  </div>
+  <div>
+  <a target="_blank" href="https://arxiv.org/abs/2011.07613"><strong>BirdSLAM: Monocular Multibody SLAM in Bird’s-Eye View</strong></a><br>
+  Swapnil Daga, <strong>Gokul B. Nair</strong>, Rahul Sajnani, Anirudha Ramesh, Junaid Ahmed Ansari, and  K. Madhava Krishna<br>
+  <em>International Conference on Computer Vision Theory and Applications (VISAPP) 2021</em><br>
+  <a target="_blank" href="https://arxiv.org/abs/2011.07613"><button id="touch">PDF</button></a>
+  <a target="_blank" href="https://youtu.be/ZFN35qJYDAA"><button id="touch">Video</button></a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <div style="margin-right: 20px;">
+    <img class="preview z-depth-1 rounded" src="images/p1.gif" style="max-width: 212px; width: auto; height: auto;">
+  </div>
+  <div>
+    <a target="_blank" href="https://arxiv.org/abs/2002.03528"><strong>Multi-object monocular SLAM for dynamic environments</strong></a> <br>
+    <strong>Gokul B. Nair</strong>, Swapnil Daga, Rahul Sajnani, Anirudha Ramesh, Junaid Ahmed Ansari, Krishna Murthy Jatavallabhula, and K. Madhava Krishna<br>
+    <em>IEEE Symposium on Intelligent Vehicle (IV) 2020</em><br>
+    <a target="_blank" href="https://ieeexplore.ieee.org/document/9304648"><button id="touch">DOI</button></a>
+    <a target="_blank" href="https://arxiv.org/abs/2002.03528"><button id="touch">PDF</button></a>
+    <a target="_blank" href="https://youtu.be/cchPIaKSSvM"><button id="touch">Video</button></a>
+  </div>
+</div>
 
 <!-- 
 A data-driven personal website
