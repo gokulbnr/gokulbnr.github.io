@@ -13,7 +13,7 @@ Prior to embarking on my doctoral journey, I amassed valuable industry experienc
 
 I hold a dual degree—B.Tech and MS by Research in Computer Science—from [IIIT-Hyderabad](https://iiit.ac.in){:target="_blank"}, where I graduated in 2020. My master’s thesis, conducted under the guidance of [Prof. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/){:target="_blank"} at the [Robotics Research Centre, IIIT-Hyderabad](https://robotics.iiit.ac.in/){:target="_blank"}, delved into the application of pose-graph optimizations for monocular SLAM, particularly within the realm of autonomous driving.
 
-knowledge and skills, aiming to push the boundaries of what is possible in robotics. My goal is to ensure that robotic systems can navigate and understand their surroundings with unprecedented accuracy and efficiency, continually striving for improvements that benefit both the field and my own expertise.
+My goal is to ensure that robotic systems can navigate and understand their surroundings with unprecedented accuracy and efficiency, continually striving for improvements that benefit both the field and my own expertise.
 
 
 Publications
