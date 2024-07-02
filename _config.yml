@@ -335,3 +335,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+gems:
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  locale: en
+  source: ./_bibliography
+  bibliography: references.bib
