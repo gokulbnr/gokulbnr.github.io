@@ -25,7 +25,7 @@ Publications
     <img class="preview z-depth-1 rounded" src="images/p3.png" style="max-width: 212px; width: auto; height: auto;">
   </div>
 <div>
-  <a target="_blank" href="gokulbnr.github.io/publication/dvs-biasing-vpr"><strong>Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras</strong></a><br>
+  <a target="_blank" href="https://gokulbnr.github.io/publication/dvs-biasing-vpr"><strong>Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras</strong></a><br>
   <strong>Gokul B. Nair</strong>, Michael Milford, and  Tobias Fischer<br>
   <em>Preprint</em><br>
   <a target="_blank" href="https://arxiv.org/abs/2403.16425"><button id="touch">PDF</button></a>
