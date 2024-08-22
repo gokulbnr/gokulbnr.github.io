@@ -9,9 +9,9 @@ redirect_from:
 
 I am currently a PhD candidate at the [QUT Centre for Robotics](https://research.qut.edu.au/qcr/){:target="_blank"}, working under the guidance of [Dr. Tobias Fischer](https://www.tobiasfischer.info/){:target="_blank"} and [Prof. Michael Milford](https://research.qut.edu.au/centre-for-future-enterprise/people/michael-milford/){:target="_blank"}. My research is centered on harnessing the unique capabilities of event-cameras to advance visual place recognition in mobile robots. By fusing the neuromorphic attributes of these sensors with cutting-edge computer vision algorithms, I strive to significantly enhance the robustness and efficiency of robotic systems operating in complex environments.
 
-Prior to embarking on my doctoral journey, I amassed valuable industry experience as a Robotics Engineer at [Clutterbot Inc.](https://www.clutterbot.com/){:target="_blank"} in Bengaluru and [Addverb Technologies](https://addverb.com/){:target="_blank"} in Noida. These roles provided me with a practical understanding of robotic systems and their real-world applications, reinforcing my dedication to innovation.
+Prior to my doctoral journey, I was involved with the industry as a Robotics Engineer. I have spent some time working at [Clutterbot Inc.](https://www.clutterbot.com/){:target="_blank"} in Bengaluru and [Addverb Technologies](https://addverb.com/){:target="_blank"} in Noida. These roles provided me with a practical understanding of robotic systems and their real-world applications.
 
-I hold a dual degree—B.Tech and MS by Research in Computer Science—from [IIIT-Hyderabad](https://iiit.ac.in){:target="_blank"}, where I graduated in 2020. My master’s thesis, conducted under the guidance of [Prof. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/){:target="_blank"} at the [Robotics Research Centre, IIIT-Hyderabad](https://robotics.iiit.ac.in/){:target="_blank"}, delved into the application of pose-graph optimizations for monocular SLAM, particularly within the realm of autonomous driving.
+I graduated in 2020 with a dual degree—B.Tech and MS by Research in Computer Science—from [IIIT-Hyderabad](https://iiit.ac.in){:target="_blank"}. My master’s thesis work, conducted under the guidance of [Prof. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/){:target="_blank"} at the [Robotics Research Centre, IIIT-Hyderabad](https://robotics.iiit.ac.in/){:target="_blank"}, delved into the application of pose-graph optimizations for monocular SLAM, particularly within the realm of autonomous driving.
 
 My goal is to ensure that robotic systems can navigate and understand their surroundings with unprecedented accuracy and efficiency, continually striving for improvements that benefit both the field and my own expertise.
 
@@ -30,6 +30,7 @@ Publications
   <em>Preprint</em><br>
   <a target="_blank" href="https://arxiv.org/abs/2403.16425"><button id="touch">PDF</button></a>
   <a target="_blank" href="https://youtu.be/8D9gtHqteEQ"><button id="touch">Video</button></a>
+  <a target="_blank" href="https://github.com/gokulbnr/fast-slow-biased-event-vpr"><button id="touch">GitHub</button></a>
   </div>
 </div>
 
