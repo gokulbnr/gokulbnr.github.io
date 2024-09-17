@@ -13,8 +13,8 @@ Event cameras are increasingly popular in robotics due to their beneficial featu
 
 [![Read on Paper](https://img.shields.io/badge/Read%20the%20Paper-Download-blue?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2403.16425)
 <!-- [![Watch the Video](https://img.shields.io/badge/Watch%20the%20Video-Play-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=8D9gtHqteEQ) -->
-[![Dataset Coming Soon](https://img.shields.io/badge/Dataset-Coming%20Soon-lightgrey?style=for-the-badge&logo=databricks)](#)
-[![Code Coming Soon](https://img.shields.io/badge/Code-Coming%20Soon-lightgrey?style=for-the-badge&logo=github)](#)
+[![Dataset](https://img.shields.io/badge/Dataset-Coming%20Soon-lightgrey?style=for-the-badge&logo=databricks)](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset)
+[![Code](https://img.shields.io/badge/Code-Coming%20Soon-lightgrey?style=for-the-badge&logo=github)](https://github.com/gokulbnr/fast-slow-biased-event-vpr/tree/main)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8D9gtHqteEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
