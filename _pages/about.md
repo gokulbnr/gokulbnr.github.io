@@ -15,6 +15,22 @@ I graduated in 2020 with a dual degree—B.Tech and MS by Research in Computer S
 
 My goal is to ensure that robotic systems can navigate and understand their surroundings with unprecedented accuracy and efficiency, continually striving for improvements that benefit both the field and my own expertise.
 
+Theses
+====
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <div style="margin-right: 20px;">
+    <img class="preview z-depth-1 rounded" src="images/slides.png" style="max-width: 212px; width: auto; height: auto;">
+  </div>
+  <div>
+  <a target="_blank" href="files/MS_Thesis.pdf"><strong>MS Thesis : Monocular Multibody SLAM in Dynamic Environments</strong></a><br>
+  <strong>Gokul B. Nair</strong><br>
+  <em>International Institute of Informatoin Technology, Hyderabad (IIIT-H)</em><br>
+  <a target="_blank" href="files/MS_Thesis.pdf"><button id="touch">PDF</button></a>
+  </div>
+</div>
+
+
 
 Publications
 =====
