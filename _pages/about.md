@@ -43,7 +43,7 @@ Publications
 <div>
   <a target="_blank" href="https://gokulbnr.github.io/publication/dvs-biasing-vpr"><strong>Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras</strong></a><br>
   <strong>Gokul B. Nair</strong>, Michael Milford, and  Tobias Fischer<br>
-  <em>Preprint</em><br>
+  <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</em><br>
   <a target="_blank" href="https://arxiv.org/abs/2403.16425"><button id="touch">PDF</button></a>
   <a target="_blank" href="https://youtu.be/8D9gtHqteEQ"><button id="touch">Video</button></a>
   <a target="_blank" href="https://github.com/gokulbnr/fast-slow-biased-event-vpr"><button id="touch">GitHub</button></a>
