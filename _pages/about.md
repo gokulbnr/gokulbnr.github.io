@@ -77,6 +77,23 @@ Publications
   </div>
 </div>
 
+
+
+Workshops
+====
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <div style="margin-right: 20px;">
+    <img class="preview z-depth-1 rounded" src="images/p1.gif" style="max-width: 212px; width: auto; height: auto;">
+  </div>
+  <div>
+    <a target="_blank" href="https://arxiv.org/abs/2002.03528"><strong>Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions</strong></a> <br>
+    Alejandro Fontan, Lukas Schmid, Olga Vysotska, Mubariz Zaffar, Linfei Pan,<strong>Gokul B. Nair</strong>, Gokul B. Nair, Johan Barthelemy, Javier Civera, Michael Milford <br>
+    <em>Robotics: Science and Systems 2025</em><br>
+    <a target="_blank" href="https://visual-slam-lab.github.io/unifying-visual-slam/"><button id="touch">Website</button></a>
+  </div>
+</div>
+
 <!-- 
 A data-driven personal website
 ======
