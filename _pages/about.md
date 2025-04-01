@@ -87,7 +87,7 @@ Workshops
     <img class="preview z-depth-1 rounded" src="images/slamworkshop.jpeg" style="max-width: 212px; width: auto; height: auto;">
   </div>
   <div>
-    <a target="_blank" href="https://arxiv.org/abs/2002.03528"><strong>Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions</strong></a> <br>
+    <a target="_blank" href="https://visual-slam-lab.github.io/unifying-visual-slam/"><strong>Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions</strong></a> <br>
     Alejandro Fontan, Lukas Schmid, Olga Vysotska, Mubariz Zaffar, Linfei Pan, <strong>Gokul B. Nair</strong>, Johan Barthelemy, Javier Civera, Michael Milford <br>
     <em>Robotics: Science and Systems 2025</em><br>
     <a target="_blank" href="https://visual-slam-lab.github.io/unifying-visual-slam/"><button id="touch">Website</button></a>
