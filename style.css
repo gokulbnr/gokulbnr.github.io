@@ -209,7 +209,7 @@ h1 {
 #intro-links {
     display: flex;
     justify-content: space-around;
-    font-size: 150% !important;
+    font-size: 120% !important;
     width: 25em;
 }
 
