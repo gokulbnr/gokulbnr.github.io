@@ -239,13 +239,13 @@ h1 {
 }
 
 .ri-image {
-    width: 8em;
+    width: 212px;
     height: 8em;
 }
 
 .ri-image img {
     height: 8em;
-    width: 8em;
+    width: 212px;
     border-radius: 1em;
     object-fit: cover;
 }
@@ -264,7 +264,7 @@ h1 {
 }
 
 .ri-text-authors {
-    font-weight: lighter;
+    font-weight: 350;
 }
 
 .ri-text-title a {
